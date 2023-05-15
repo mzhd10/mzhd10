@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mozhdeh Marvi</h1>
 <h3 align="center">in full-stack path and Computer-Science sophomore.</h3>
 
-<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/qWLJGFnbRSPANji89](https://tenor.com/view/programming-gif-25868426)" >
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withmzhd&label=Profile%20views&color=0e75b6&style=flat" alt="withmzhd" /> </p>
 
