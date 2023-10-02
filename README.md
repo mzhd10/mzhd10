@@ -9,7 +9,7 @@
 
 - 💻 I’m currently learning **front-end develpment**
 
-- 📫 How to reach me **delvarimozhdeh61@gmail.com**
+- 📫 How to reach me **nozhdehmarvi02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
