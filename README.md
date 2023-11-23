@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/withmzhd" target="blank"><img src="https://img.shields.io/twitter/follow/withmzhd?logo=twitter&style=for-the-badge" alt="withmzhd" /></a> </p>
 
-<h3>- 💻 Actively learning **React.js** to build interactive and efficient front-end applications.</h3>
+<h6>- 💻 Actively learning **React.js** to build interactive and efficient front-end applications.</h6>
 
 - 📫 How to reach me **mozhdehmarvi02@gmail.com**
 
