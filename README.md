@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mozhdeh Marvi</h1>
-<h3 align="center">Aspiring full-stack developer on a journey of continuous learning and growth. Proficient in HTML, CSS, and JavaScript for crafting dynamic and responsive user interfaces. Actively learning React.js to build interactive and efficient front-end applications. Excited about collaborating on open-source projects and exploring new technologies to broaden my skill set. Committed to contributing positively to the tech community and passionate about creating seamless, user-friendly web experiences.</h3>
+<h5 align="center">Aspiring full-stack developer on a journey of continuous learning and growth. Proficient in HTML, CSS, and JavaScript for crafting dynamic and responsive user interfaces. Actively learning React.js to build interactive and efficient front-end applications. Excited about collaborating on open-source projects and exploring new technologies to broaden my skill set. Committed to contributing positively to the tech community and passionate about creating seamless, user-friendly web experiences.</h5>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" >
 
