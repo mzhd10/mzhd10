@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mozhdeh Marvi</h1>
-<h4 align="center">Aspiring full-stack developer on a journey of continuous learning and growth. Excited about collaborating on open-source projects and exploring new technologies to broaden my skill set. Committed to contributing positively to the tech community and passionate about creating seamless, user-friendly web experiences.</h4>
+<h4 align="center">I'm a data analyst at AseelApp, a full-stack developer, and currently diving into data science at Nova IMS. I’m all about learning and growing, always excited to explore new technologies and work on open-source projects. My goal is to create smooth, user-friendly web experiences while contributing positively to the tech community. Let’s build something amazing together.</h4>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" >
 
