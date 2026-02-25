@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withmzhd&label=Profile%20views&color=0e75b6&style=flat" alt="withmzhd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/withmzhd" target="blank"><img src="https://img.shields.io/twitter/follow/withmzhd?logo=twitter&style=for-the-badge" alt="withmzhd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/withmzhd" target="blank"><img src="https://img.shields.io/linkedin/follow/withmzhd?logo=twitter&style=for-the-badge" alt="withmzhd" /></a> </p>
 
 
 <h5>- 📫 How to reach me <strong>mozhdehmarvi02@gmail.com</strong></h5>
